@@ -11,3 +11,5 @@ I read those blog when I try to solve the problem of unconverage of the neural n
 
 
 dynamic programming： https://zhuanlan.zhihu.com/p/26392222
+
+gre math cheatsheet： https://www.prepscholar.com/gre/blog/gre-math-formulas-cheat-sheet/
